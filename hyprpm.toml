@@ -1,0 +1,12 @@
+[repository]
+name = "window-sweaters"
+authors = ["Window Sweaters contributors"]
+commit_pins = []
+
+[window-sweaters]
+description = "Knitted window borders, colours inspired by your favourite apps"
+authors = ["Window Sweaters contributors"]
+output = "hyprland/window-sweaters.so"
+build = [
+    "make -C hyprland all",
+]

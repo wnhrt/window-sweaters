@@ -9,6 +9,10 @@ https://github.com/user-attachments/assets/1ee85981-8882-4cb5-8bc3-75d8462a1f1a
 
 [See Window Sweaters in action on X →](https://x.com/saragordic/status/2098916110787916219)
 
+## On Hyprland
+
+There is also a Hyprland plugin with the same renderer and sweaters, in [hyprland/](hyprland/README.md).
+
 ## Get it
 
 You can just send this repo to your coding agent and ask it to install Window Sweaters for you:
